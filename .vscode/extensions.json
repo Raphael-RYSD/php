@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "hakcorp.php-awesome-snippets"
+        "hakcorp.php-awesome-snippets",
+        "miramac.vscode-exec-node"
     ]
 }

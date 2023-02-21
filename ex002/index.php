@@ -23,6 +23,7 @@
         // i -> MINUTO
         // s -> SEGUNDO
         echo " e a hora atual " . date("G:i:s T");
+
     ?>
 </body>
 
